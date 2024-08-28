@@ -22,7 +22,7 @@ To get the most out of the resources here:
 
 ## License
 
-All content in this organization is licensed under the [MIT License](LICENSE), unless otherwise specified.
+All content in this organization is licensed under the [MIT License](https://github.com/UofA-ECE-Digital-Logic-Design/.github/blob/main/LICENSE), unless otherwise specified.
 
 ## Contact
 
